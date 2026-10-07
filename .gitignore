@@ -1,0 +1,8 @@
+build/
+*.o
+*.exe
+data/store/*
+!data/store/.gitkeep
+third_party/crow_all.h
+.vscode/
+.idea/

@@ -1,0 +1,25 @@
+# City map (Pune-inspired). N <name>   |   E <a> <b> <km>   (roads are two-way)
+N Airport
+N Station
+N Camp
+N Koregaon_Park
+N Shivajinagar
+N Kothrud
+N Baner
+N Wakad
+N Hinjewadi
+N Hadapsar
+E Airport Koregaon_Park 7.5
+E Airport Station 9.0
+E Station Camp 2.5
+E Station Koregaon_Park 3.0
+E Camp Koregaon_Park 2.5
+E Camp Hadapsar 8.0
+E Koregaon_Park Hadapsar 7.0
+E Station Shivajinagar 4.5
+E Shivajinagar Kothrud 6.0
+E Shivajinagar Baner 7.5
+E Kothrud Baner 8.0
+E Baner Wakad 5.5
+E Baner Hinjewadi 8.5
+E Wakad Hinjewadi 4.0
